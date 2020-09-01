@@ -1,0 +1,14 @@
+{
+    "name": "lockstep-test",
+    "version": "0.0.1",
+    "description": "A test for a multiplayer lockstep server/client",
+    "main": "index.js",
+    "scripts": {
+        "main": "index"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    },
+    "license": "MIT"
+}
